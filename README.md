@@ -21,7 +21,6 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
 ```
     ChineseInitial.to("月泉") => "Y"
     ChineseInitial.to_pinyin("月泉") => "yq"        
